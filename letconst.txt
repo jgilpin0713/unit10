@@ -1,0 +1,8 @@
+const PI = 3.14 - will not allow you to reassign PI
+
+
+What is the difference between var and let? - let does not let you redeclare the variable. 
+What is the difference between var and const? - const does not let you redeclare or reassign the variable 
+What is the difference between let and const? = const is not able to reassign the variable, let does allow
+What is hoisting? - hoisting is where the var is read and JS knows it's there but you have called it or used it before the code has actually run. 
+It "moves the variables to the top/start of running the page. 
